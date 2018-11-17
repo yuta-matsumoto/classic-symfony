@@ -33,5 +33,5 @@ monolog:
 assetic:
     use_controller: true
 
-#swiftmailer:
-#    delivery_addresses: ['me@example.com']
+swiftmailer:
+    delivery_address: clock.10.0410@gmail.com
