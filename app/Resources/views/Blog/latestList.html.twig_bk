@@ -1,9 +1,0 @@
-<div>新着ブログ記事</div>
-<ul>
-	{% for blog in blogList %}
-		<li>
-			[{{ blog.targetDate }}]
-			{{ blog.title }}
-		</li>
-	{% endfor %}
-</ul>
